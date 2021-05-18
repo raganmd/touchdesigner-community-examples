@@ -7,7 +7,7 @@ parent: Examples
 # The Blend CHOP
 ***tox: container_blend_chop-00***
 
-[Load Example](?remoteTox="https://github.com/raganmd/touchdesigner-community-examples/blob/main/tox/container_blend_chop-00.tox?raw=true"){: .btn .btn-green}
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples/blob/main/tox/container_blend_chop-00.tox?raw=true){: .btn .btn-green}
 
 Currently no body copy
 
