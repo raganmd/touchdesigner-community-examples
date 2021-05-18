@@ -5,7 +5,9 @@ parent: Examples
 ---
 
 # Optimized Render System
-### Tox - container_optimized_render_system
+***Tox - container_optimized_render_system***  
+
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_optimized_render_system.tox?raw=true){: .btn .btn-green}
 
 Currently no body copy 
 

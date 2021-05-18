@@ -5,7 +5,9 @@ parent: Examples
 ---
 
 # Spiralgraph
-### tox: container_spiralgraph
+***tox: container_spiralgraph***  
+
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_spiralgraph.tox?raw=true){: .btn .btn-green}
 
 Currently no body copy
 

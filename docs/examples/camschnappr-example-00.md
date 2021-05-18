@@ -5,7 +5,9 @@ parent: Examples
 ---
 
 # camSchnappr Example 00
-### Tox - container_bin_and_display_00  
+***Tox - container_bin_and_display_00***  
+
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_camschnappr_example_00.tox?raw=true){: .btn .btn-green}
 
 Currently no body copy 
 

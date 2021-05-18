@@ -5,9 +5,11 @@ parent: Examples
 ---
 
 # Write Vals to a Table
-### tox: container_write_button_vals_to_table
+***tox: container_write_button_vals_to_table***  
 
-**Original post / question**
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_write_button_vals_to_table.tox?raw=true){: .btn .btn-green}
+
+## Original post / question**
 
 >I have a follow up question about replicator comps. I have my UI successfully being built now, but now I want to create a table storing the values from the "out" nodes of each item the replicator comp creates. Can't figure it out.
 

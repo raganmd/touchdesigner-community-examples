@@ -5,7 +5,9 @@ parent: Examples
 ---
 
 # Stoner Example
-### Tox - container_stoner_example_00
+***Tox - container_stoner_example_00***  
+
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_stoner_example_00.tox?raw=true){: .btn .btn-green}
 
 Currently no body copy 
 

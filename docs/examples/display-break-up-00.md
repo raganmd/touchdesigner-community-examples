@@ -5,7 +5,9 @@ parent: Examples
 ---
 
 # Display Break Up
-### Tox - container_display_break_up  
+***Tox - container_display_break_up***  
+
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_display_breakup.tox?raw=true){: .btn .btn-green}
 
 Currently no body copy 
 

@@ -5,7 +5,9 @@ parent: Examples
 ---
 
 # Channel Masking from OSC Input
-### tox: container_channel_mask_osc
+***tox: container_channel_mask_osc***  
+
+[Load Example](?remoteTox=){: .btn .btn-green}
 
 Currently no body copy
 
