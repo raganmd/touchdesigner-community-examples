@@ -8,5 +8,5 @@ permalink: /docs/examples
 
 # Examples
 
-All Examples
+All Examples:
 {: .fs-6 .fw-300 }
