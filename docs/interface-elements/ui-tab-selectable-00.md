@@ -2,7 +2,7 @@
 layout: default
 title: Tab Selectable UIs
 title: Blend CHOP 00
-parent: Examples
+parent: Interface Elements
 ---
 
 # Tab Selectable UIs

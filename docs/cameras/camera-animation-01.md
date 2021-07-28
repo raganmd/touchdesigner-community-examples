@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Camera Blend Animation
-parent: Examples
+parent: Cameras
 ---
 
 # Camera Animation Technique 02

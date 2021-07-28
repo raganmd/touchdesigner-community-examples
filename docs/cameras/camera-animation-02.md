@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Camera Animation Along a Path
-parent: Examples
+parent: Cameras
 ---
 
 # Camera Animation Technique 03
