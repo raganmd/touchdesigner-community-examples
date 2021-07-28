@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Examples
-nav_order: 1
+title: Cameras
+nav_order: 3
 has_children: true
-permalink: /docs/examples
+permalink: /docs/cameras
 ---
 
-# Examples
+# Cameras
 
 All Examples:
 {: .fs-6 .fw-300 }

@@ -7,7 +7,7 @@ parent: Examples
 # Image and Video Bin Example
 ***Tox - container_bin_and_display_00***  
 
-[Load Example](?remoteTox=){: .btn .btn-green}
+[Load Example](?remoteTox=){: .btn .btn-green} [Open Network](?openNetwork){: .btn .btn-green}
 
 Currently no body copy 
 

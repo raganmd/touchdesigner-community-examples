@@ -16,3 +16,6 @@ Since 2011 I've been collecting, creating, and sharing examples for how to appro
 
 ## Getting started
 I've tried all sorts of different mechanics for sharing and writing about these discoveries, and this time around I'm hoping to land on something a little more friendly and extensible. Something that keeps all the examples out of a `TOE` file and out of a folder with all manner of `TOX` files. 
+
+## Start Exploring the Examples
+[See the Examples](https://raganmd.github.io//touchdesigner-community-examples/)
