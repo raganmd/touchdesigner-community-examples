@@ -7,7 +7,7 @@ parent: Interface Elements
 # 088 Table COMP With Indicator
 ***tox: container_088_table_with_indicator***  
 
-[Load Example](?remoteTox=){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/raw/main/tox/container_table_examples.tox){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
 
 Currently no body copy
 
