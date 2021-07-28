@@ -7,7 +7,7 @@ parent: Examples
 # Write Vals to a Table
 ***tox: container_write_button_vals_to_table***  
 
-[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_write_button_vals_to_table.tox?raw=true){: .btn .btn-green}
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_write_button_vals_to_table.tox?raw=true){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
 
 ## Original post / question**
 

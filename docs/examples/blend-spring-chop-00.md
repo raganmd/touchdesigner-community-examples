@@ -7,7 +7,7 @@ parent: Examples
 # Blend Spring Reset
 ***tox: container_blend_spring_reset_00***  
 
-[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_letter_particles.tox?raw=true){: .btn .btn-green}
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_letter_particles.tox?raw=true){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
 
 Currently no body copy
 

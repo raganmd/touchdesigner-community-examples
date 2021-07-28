@@ -7,7 +7,7 @@ parent: Examples
 # Simple Bouncing Ball
 ***Tox - container_simple_bouncing_ball***  
 
-[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_simple_bouncing_ball.tox?raw=true){: .btn .btn-green}
+[Load Example](?remoteTox=https://github.com/raganmd/touchdesigner-community-examples-code/blob/main/tox/container_simple_bouncing_ball.tox?raw=true){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
 
 ## Original post / question
 
